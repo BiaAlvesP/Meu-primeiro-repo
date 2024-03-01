@@ -1,0 +1,35 @@
+.card {
+    width: 500px;
+    height: fit-content;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: aliceblue;
+    margin: 10px;
+
+}
+
+.card-image {
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+.card-image img {
+
+    width: 70%;
+    height: 70%;
+}
+
+.card-texto {
+
+    font-weight: bold;
+    color: rgb(94, 37, 147);
+}
+
+.card-titulo {
+    font-size: 35px;
+}
+
+.card-titulo .card-titulo-nome {
+    color: brown;
+}
